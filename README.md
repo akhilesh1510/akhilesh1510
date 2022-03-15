@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akhilesh1510
 - 👀 I’m interested in ... full stack develper 
-- 🌱 I’m currently learning ...jode express.js
+- 🌱 I’m currently learning ...node express.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .
 
